@@ -1,6 +1,12 @@
 # SpringBootTableProject
 스프링부트 게시판 만들기 프로젝트
 
+Spring Boot 버전
+- 3.1.0
+
+자바 버전
+17
+
 적용된 Dependencies
 - Spring Web, H2 Database, Mustache, Spring Data JPA
 
