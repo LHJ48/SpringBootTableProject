@@ -12,7 +12,6 @@ import lombok.ToString;
 @Getter
 @ToString
 public class CommentDto {
-    @JsonProperty("article_id")
     private Long id; // 댓글의 id
     private Long articleId; // 댓글의 부모 id
     private String nickname; // 댓글 작성자
